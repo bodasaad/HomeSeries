@@ -1,8 +1,8 @@
 {
     "env": {
-          "MONGO_USER": "abdelrhman",
-          "MONGO_PASSWORD":"ingodwetrust",
-          "MONGO_DATABASE":"moviesApp",
+          "MONGO_USER": "Replace With Your Credentials",
+          "MONGO_PASSWORD":"Replace With Your Credentials",
+          "MONGO_DATABASE":"Replace With Your Credentials",
           "NODE_ENV": "production"
     }
   }
